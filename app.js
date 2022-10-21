@@ -1,4 +1,1 @@
-console.log("testes1")
-
-
-console.log("teste2")
+console.log("Rodando o Sistema de Gerenciamento de Jogos")
